@@ -1,6 +1,4 @@
-Feature: Add user with job
-  As a User
-  I want input ...
+Feature: Add, delete and register a new user
 
   Scenario: Add user with job
     Given I use user creation service

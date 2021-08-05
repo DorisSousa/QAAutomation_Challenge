@@ -1,5 +1,5 @@
 Feature: Product Subscription
-  As a User I want to calculate the price os a full special support plan for 6 months
+  As a User I want to calculate the price of a full special support plan for 6 months
 
   Scenario: Calculate the price of a full special support plan for 6 months
     Given I open Chrome and launch the application
